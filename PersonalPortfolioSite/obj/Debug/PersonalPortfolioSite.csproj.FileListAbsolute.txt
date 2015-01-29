@@ -1,0 +1,5 @@
+G:\fall 2014\Emerging Technologies\Assignments\PersonalPortfolioSite\PersonalPortfolioSite\bin\PersonalPortfolioSite.dll
+G:\fall 2014\Emerging Technologies\Assignments\PersonalPortfolioSite\PersonalPortfolioSite\bin\PersonalPortfolioSite.pdb
+G:\fall 2014\Emerging Technologies\Assignments\PersonalPortfolioSite\PersonalPortfolioSite\obj\Debug\PersonalPortfolioSite.csprojResolveAssemblyReference.cache
+G:\fall 2014\Emerging Technologies\Assignments\PersonalPortfolioSite\PersonalPortfolioSite\obj\Debug\PersonalPortfolioSite.dll
+G:\fall 2014\Emerging Technologies\Assignments\PersonalPortfolioSite\PersonalPortfolioSite\obj\Debug\PersonalPortfolioSite.pdb

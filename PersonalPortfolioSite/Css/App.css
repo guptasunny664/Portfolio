@@ -1,0 +1,15 @@
+﻿nav *{
+    line-height: 52px;
+}
+#head{
+    background-color: #253E66;
+}
+#head *{
+    color: #fff;
+}
+.bmargin{
+    margin-bottom: 80px;
+}
+.bmargin-top{
+    margin-top: 80px;
+}
