@@ -59,10 +59,12 @@
   <ItemGroup>
     <Content Include="Assets\images\10006524_668705269832385_2850599056224187759_n.jpg" />
     <Content Include="Assets\images\adevices.jpg" />
+    <Content Include="Assets\images\easy care.png" />
     <Content Include="Assets\images\fb_icon_325x325.png" />
     <Content Include="Assets\images\linkedin.png" />
     <Content Include="Assets\images\logo_1379183_web.jpg" />
     <Content Include="Assets\images\menu.png" />
+    <Content Include="Assets\images\personal portfolio.png" />
     <Content Include="Assets\images\SG_Logo.jpg" />
     <Content Include="contact.html" />
     <Content Include="Css\App.css" />
